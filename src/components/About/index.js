@@ -28,7 +28,7 @@ const About = () => {
                 <br/>
                 <div className='bio'>
                     <h1>Bio</h1>
-                    <p> I am a graduate </p>
+                    <p> I am a graduate student at Northeastern University in the Information Systems program and a former intern at Microsoft. I love developing applications in Nodejs and Python and deploying them to a Kubernetes cluster. </p>
                 </div>
                 
             </div>
